@@ -1,5 +1,6 @@
 name: ecn
 dependencies:
+  - pip
   - pip:
     - pandas 
     - numpy
