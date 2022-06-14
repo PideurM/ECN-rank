@@ -1,0 +1,6 @@
+name: ecn
+dependencies:
+  - pandas
+  - lxml
+  - pip
+  - datetime
