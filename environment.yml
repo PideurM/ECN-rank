@@ -1,4 +1,4 @@
 name: ecn
 dependencies:
-  - pandas
-  - numpy
+  - pandas = 1.2.1
+  - numpy = 1.19.2
