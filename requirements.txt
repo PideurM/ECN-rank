@@ -1,5 +1,4 @@
-streamlit==1.10.0
+streamlit==1.6
 pandas==1.2.1
-numpy==1.22.3
+numpy==1.19.5
 lxml==4.6.3
-click
